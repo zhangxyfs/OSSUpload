@@ -2,7 +2,7 @@
 ### 本项目是基于阿里云OSS文件上传的二次封装(我仅仅提供一种解决方案)
 #### 原理如下：
 ![](https://github.com/zhangxyfs/OSSUpload/blob/master/example/upload_tactics.jpg)
-
+##### ps：画比较low， 酬和看吧。
 #### 如何调用？
 
 MainActivity.class
