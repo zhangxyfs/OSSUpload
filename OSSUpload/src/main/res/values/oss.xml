@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="pu_im">im/%1$s/</string>
+    <string name="pu_im_backup">im/backup/</string>
+    <string name="pu_im_team_icon">icon/groupicon/group_%1$d/%2$d/</string>
+    <string name="pu_company_icon">icon/companyicon/company_%1$d/%2$d/</string>
+    <string name="pu_photo">icon/personicon/%1$s/</string>
+</resources>

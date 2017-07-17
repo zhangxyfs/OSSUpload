@@ -1,0 +1,155 @@
+{
+  "_note1": "KEEP THIS FILE! Check it into a version control system (VCS) like git.",
+  "_note2": "ObjectBox manages crucial IDs for your object model. See docs for details.",
+  "_note3": "If you have VCS merge conflicts, you must resolve them according to ObjectBox docs.",
+  "entities": [
+    {
+      "id": "1:4332714884748807688",
+      "lastPropertyId": "11:9040057420566833998",
+      "name": "OSSProviderInfo",
+      "properties": [
+        {
+          "id": "1:7837821110828251839",
+          "name": "id"
+        },
+        {
+          "id": "2:1547991528056792409",
+          "name": "nowLoginUserId"
+        },
+        {
+          "id": "3:4211732073805133755",
+          "name": "companyId"
+        },
+        {
+          "id": "4:5442446352101441328",
+          "name": "securityToken"
+        },
+        {
+          "id": "5:5423844824722442021",
+          "name": "accessKeySecret"
+        },
+        {
+          "id": "6:4910963640042722178",
+          "name": "accessKeyId"
+        },
+        {
+          "id": "7:9214376227535054563",
+          "name": "expiration"
+        },
+        {
+          "id": "8:7354373405879951811",
+          "name": "time"
+        },
+        {
+          "id": "9:3363733764310453174",
+          "name": "endPoint"
+        },
+        {
+          "id": "10:5881214067720630515",
+          "name": "bucketName"
+        },
+        {
+          "id": "11:9040057420566833998",
+          "name": "isPublic"
+        }
+      ]
+    },
+    {
+      "id": "2:8436581123439524103",
+      "lastPropertyId": "21:2815792951913381098",
+      "name": "TaskInfo",
+      "properties": [
+        {
+          "id": "1:7475043241544957463",
+          "name": "id"
+        },
+        {
+          "id": "2:3824677834053036617",
+          "name": "taskKey"
+        },
+        {
+          "id": "3:5458344998587172458",
+          "name": "fileName"
+        },
+        {
+          "id": "4:6600661636782743541",
+          "name": "filePath"
+        },
+        {
+          "id": "5:6211031661914947676",
+          "name": "toUploadPath"
+        },
+        {
+          "id": "6:732104483825147241",
+          "name": "fileUrl"
+        },
+        {
+          "id": "7:2889781178083109812",
+          "name": "progress"
+        },
+        {
+          "id": "8:6445640377672054506",
+          "name": "currentSize"
+        },
+        {
+          "id": "9:2987175117891631064",
+          "name": "totalLength"
+        },
+        {
+          "id": "10:4401725316466143924",
+          "name": "networkSpeed"
+        },
+        {
+          "id": "11:7726581449771348335",
+          "name": "state"
+        },
+        {
+          "id": "12:1644580636311017936",
+          "name": "status"
+        },
+        {
+          "id": "13:9093514690222012112",
+          "name": "createTime"
+        },
+        {
+          "id": "14:6054096348081469218",
+          "name": "succTime"
+        },
+        {
+          "id": "16:2659209515255476404",
+          "name": "originalFilePath"
+        },
+        {
+          "id": "17:5687371458108958554",
+          "name": "bucketName"
+        },
+        {
+          "id": "18:1450058061429201303",
+          "name": "endPoint"
+        },
+        {
+          "id": "19:5449259362390661865",
+          "name": "userId"
+        },
+        {
+          "id": "20:4785656171369043394",
+          "name": "companyId"
+        },
+        {
+          "id": "21:2815792951913381098",
+          "name": "retryNum"
+        }
+      ]
+    }
+  ],
+  "lastEntityId": "2:8436581123439524103",
+  "lastIndexId": "0:0",
+  "lastSequenceId": "0:0",
+  "modelVersion": 2,
+  "retiredEntityUids": [],
+  "retiredIndexUids": [],
+  "retiredPropertyUids": [
+    7732287387593869190
+  ],
+  "version": 1
+}
